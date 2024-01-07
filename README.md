@@ -1,2 +1,2 @@
 # media
-media resources for Rspack
+media resources for Rspack ecosystem
